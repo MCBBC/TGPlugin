@@ -8,4 +8,5 @@
 详情请见 TGPlugin\HongBao\Help
 
 PS: 基本上所有插件都需要添加额外数据库，SQL文件均在插件文件夹内
+
 PSS: TelegramProcess.php 是一个示例文件，您可以参照着修改，响应指令也可以自行修改
